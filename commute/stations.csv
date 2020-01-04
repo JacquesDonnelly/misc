@@ -1,0 +1,618 @@
+,station,code
+0,Abbey Wood,ABW
+1,Acton Central,ACC
+2,Acton Main Line,AML
+3,Addlestone railway station,ASN
+4,Adisham railway station,ADM
+5,Albany Park,AYP
+6,Alexandra Palace,AAP
+7,Amberley railway station,AMY
+8,Amersham,AMR
+9,Anerley,ANZ
+10,Angmering railway station,ANG
+11,Appledore railway station,APD
+12,Arundel railway station,ARU
+13,Ash Vale railway station,AHV
+14,Ash railway station,ASH
+15,Ashford International railway station,AFK
+16,Ashford railway station (Surrey),AFS
+17,Ashtead railway station,AHD
+18,Aylesford railway station,AYL
+19,Aylesham railway station,AYH
+20,Bagshot railway station,BAG
+21,Balcombe railway station,BAB
+22,Balham,BAL
+23,Banstead,BAD
+24,Banstead railway station,BAD
+25,Barking,BKG
+26,Barming railway station,BMG
+27,Barnehurst,BNH
+28,Barnes,BNS
+29,Barnes Bridge,BNI
+30,Barnham railway station,BAA
+31,Bat & Ball railway station,BBL
+32,Battersea Park,BAK
+33,Battle railway station,BAT
+34,Bearsted railway station,BSD
+35,Beckenham Hill,BEC
+36,Beckenham Junction,BKJ
+37,Bekesbourne railway station,BKS
+38,Bellingham,BGM
+39,Belmont,BLM
+40,Beltring railway station,BEG
+41,Belvedere,BVD
+42,Berrylands,BRS
+43,Berwick railway station (East Sussex),BRK
+44,Betchworth railway station,BTO
+45,Bethnal Green,BET
+46,Bexhill railway station,BEX
+47,Bexley,BXY
+48,Bexleyheath,BXH
+49,Bickley,BKL
+50,Billingshurst railway station,BIG
+51,Birchington-on-Sea railway station,BCH
+52,Birkbeck,BIK
+53,Bishopstone railway station,BIP
+54,BlackfriarsLondon,BFR
+55,Blackheath,BKH
+56,Blackhorse Road,BHO
+57,Bognor Regis railway station,BOG
+58,Bookham railway station,BKA
+59,Borough Green & Wrotham railway station,BRG
+60,Bosham railway station,BOH
+61,Bowes Park,BOP
+62,Box Hill & Westhumble railway station,BXW
+63,Brentford,BFD
+64,Brentwood,BRE
+65,Brimsdown,BMD
+66,Brixton,BRX
+67,Broadstairs railway station,BSR
+68,Brockley,BCY
+69,Bromley North,BMN
+70,Bromley South,BMS
+71,Brondesbury,BSY
+72,Brondesbury Park,BSP
+73,Brookwood railway station,BKO
+74,Broxbourne,BXB
+75,Bruce Grove,BCV
+76,Burgess Hill railway station,BUG
+77,Bush Hill Park,BHK
+78,Bushey,BSH
+79,Buxted railway station,BXD
+80,Byfleet & New Haw railway station,BFN
+81,Caledonian Road & Barnsbury,CIR
+82,Camberley railway station,CAM
+83,Cambridge Heath,CBH
+84,Camden Road,CMD
+85,Canada Water,ZCW
+86,Cannon StreetLondon,CST
+87,Canonbury,CNN
+88,Canterbury East railway station,CBE
+89,Canterbury West railway station,CBW
+90,Carpenders Park,CPK
+91,Carshalton,CSH
+92,Carshalton Beeches,CSB
+93,Castle Bar Park,CBP
+94,Caterham,CAT
+95,Caterham railway station,CAT
+96,Catford,CTF
+97,Catford Bridge,CFB
+98,Chadwell Heath,CTH
+99,Chafford Hundred,CFH
+100,Chalfont & Latimer,CFO
+101,Charing CrossLondon,CHX
+102,Charing railway station,CHG
+103,Charlton,CTN
+104,Chartham railway station,CRT
+105,Cheam,CHE
+106,Chelsfield,CLD
+107,Chertsey railway station,CHY
+108,Cheshunt,CHN
+109,Chessington North,CSN
+110,Chessington South,CSS
+111,Chestfield & Swalecliffe railway station,CSW
+112,Chichester railway station,CCH
+113,Chilham railway station,CIL
+114,Chilworth railway station,CHL
+115,Chingford,CHI
+116,Chipstead,CHP
+117,Chipstead railway station,CHP
+118,Chislehurst,CIT
+119,Chiswick,CHK
+120,Chorleywood,CLW
+121,Christ's Hospital railway station,CHH
+122,City ThameslinkLondon,CTK
+123,Clandon railway station,CLA
+124,Clapham High Street,CLP
+125,Clapham Junction,CLJ
+126,Clapton,CPT
+127,Claygate railway station,CLG
+128,Clock House,CLK
+129,Cobham & Stoke d'Abernon railway station,CSD
+130,Collington railway station,CLL
+131,Cooden Beach railway station,COB
+132,Cooksbridge railway station,CBR
+133,Coulsdon South,CDS
+134,Coulsdon Town,CDN
+135,Cowden railway station,CWN
+136,Crawley railway station,CRW
+137,Crayford,CRY
+138,Crews Hill,CWH
+139,Cricklewood,CRI
+140,Crofton Park,CFT
+141,Crouch Hill,CRH
+142,Crowborough railway station,COH
+143,Crowhurst railway station,CWU
+144,Crystal Palace,CYP
+145,Cuxton railway station,CUX
+146,Dagenham Dock,DDK
+147,Dalston Junction,DLJ
+148,Dalston Kingsland,DLK
+149,Dartford,DFD
+150,Dartford railway station,DFD
+151,Deal railway station,DEA
+152,Denmark Hill,DMK
+153,Deptford,DEP
+154,Doleham railway station,DLH
+155,Dorking Deepdene railway station,DPD
+156,Dorking West railway station,DKT
+157,Dorking railway station,DKG
+158,Dormans railway station,DMS
+159,Dover Priory railway station,DVP
+160,Drayton Green,DRG
+161,Drayton Park,DYP
+162,Dumpton Park railway station,DMP
+163,Dunton Green railway station,DNG
+164,Durrington-on-Sea railway station,DUR
+165,Ealing Broadway,EAL
+166,Earlsfield,EAD
+167,Earlswood railway station (Surrey),ELD
+168,East Croydon,ECR
+169,East Dulwich,EDW
+170,East Farleigh railway station,EFL
+171,East Grinstead railway station,EGR
+172,East Malling railway station,EML
+173,East Worthing railway station,EWR
+174,Eastbourne railway station,EBN
+175,Ebbsfleet International railway station,EBD
+176,Eden Park,EDN
+177,Edenbridge Town railway station,EBT
+178,Edenbridge railway station,EBR
+179,Edmonton Green,EDR
+180,Effingham Junction railway station,EFF
+181,Egham railway station,EGH
+182,Elephant & Castle,EPH
+183,Elmers End,ELE
+184,Elmstead Woods,ESD
+185,Elstree & Borehamwood,ELS
+186,Eltham,ELW
+187,Emerson Park,EMP
+188,Enfield Chase,ENC
+189,Enfield Lock,ENL
+190,Enfield Town,ENF
+191,Epsom Downs,EPD
+192,Epsom Downs railway station,EPD
+193,Epsom railway station,EPS
+194,Eridge railway station,ERI
+195,Erith,ERH
+196,Esher railway station,ESH
+197,Essex Road,EXR
+198,Etchingham railway station,ETC
+199,EustonLondon,EUS
+200,Ewell East,EWE
+201,Ewell East railway station,EWE
+202,Ewell West,EWW
+203,Ewell West railway station,EWW
+204,Eynsford railway station,EYN
+205,Falconwood,FCN
+206,Farncombe railway station,FNC
+207,Farnham railway station,FNH
+208,Farningham Road railway station,FNR
+209,Farringdon,ZFD
+210,Faygate railway station,FGT
+211,Feltham,FEL
+212,Fenchurch StreetLondon,FST
+213,Finchley Road & Frognal,FNY
+214,Finsbury Park,FPK
+215,Fishbourne railway station,FSB
+216,Fishersgate railway station,FSG
+217,Folkestone Central railway station,FKC
+218,Folkestone West railway station,FKW
+219,Ford railway station,FOD
+220,Forest Gate,FOG
+221,Forest Hill,FOH
+222,Frant railway station,FRT
+223,Frimley railway station,FML
+224,Fulwell,FLW
+225,Gatwick Airport railway station,GTW
+226,Gidea Park,GDP
+227,Gipsy Hill,GIP
+228,Glynde railway station,GLY
+229,Godalming railway station,GOD
+230,Godstone railway station,GDN
+231,Gomshall railway station,GOM
+232,Goodmayes,GMY
+233,Gordon Hill,GDH
+234,Goring-by-Sea railway station,GBS
+235,Gospel Oak,GPO
+236,Grange Park,GPK
+237,Gravesend railway station,GRV
+238,Grays,GRY
+239,Greenford,GFD
+240,Greenhithe railway station,GNH
+241,Greenwich,GNW
+242,Grove Park,GRP
+243,Guildford railway station,GLD
+244,Gunnersbury,GUN
+245,Hackbridge,HCB
+246,Hackney Central,HKC
+247,Hackney Downs,HAC
+248,Hackney Wick,HKW
+249,Hadley Wood,HDW
+250,Haggerston,HGG
+251,Halling railway station,HAI
+252,Ham Street railway station,HMT
+253,Hampden Park railway station,HMD
+254,Hampstead Heath,HDH
+255,Hampton,HMP
+256,Hampton Court,HMC
+257,Hampton Court railway station,HMC
+258,Hampton Wick,HMW
+259,Hanwell,HAN
+260,Harlesden,HDN
+261,Harold Wood,HRO
+262,Harrietsham railway station,HRM
+263,Harringay,HGY
+264,Harringay Green Lanes,HRY
+265,Harrow & Wealdstone,HRW
+266,Harrow-on-the-Hill,HOH
+267,Haslemere railway station,HSL
+268,Hassocks railway station,HSK
+269,Hastings railway station,HGS
+270,Hatch End,HTE
+271,Haydons Road,HYR
+272,Hayes,HYS
+273,Hayes & Harlington,HAY
+274,Haywards Heath railway station,HHE
+275,Headcorn railway station,HCN
+276,Headstone Lane,HDL
+277,Heathrow Central,HXX
+278,Heathrow Terminal 4,HAF
+279,Heathrow Terminal 5,HWV
+280,Hendon,HEN
+281,Herne Bay railway station,HNB
+282,Herne Hill,HNH
+283,Hersham railway station,HER
+284,Hever railway station,HEV
+285,Higham railway station (Kent),HGM
+286,Highams Park,HIP
+287,Highbury & Islington,HHY
+288,Hildenborough railway station,HLB
+289,Hinchley Wood railway station,HYW
+290,Hither Green,HGR
+291,Hollingbourne railway station,HBN
+292,Holmwood railway station,HLM
+293,Homerton,HMN
+294,Honor Oak Park,HPA
+295,Horley railway station,HOR
+296,Hornsey,HRN
+297,Horsham railway station,HRH
+298,Horsley railway station,HSY
+299,Hounslow,HOU
+300,Hoxton,HOX
+301,Hurst Green railway station,HUR
+302,Ifield railway station,IFI
+303,Ilford,IFD
+304,Imperial Wharf,IMW
+305,Isleworth,ISL
+306,Kearsney railway station,KSN
+307,Kempton Park railway station,KMP
+308,Kemsing railway station,KMS
+309,Kenley,KLY
+310,Kensal Green,KNL
+311,Kensal Rise,KNR
+312,Kensington (Olympia),KPA
+313,Kent House,KTH
+314,Kentish Town,KTN
+315,Kentish Town West,KTW
+316,Kenton,KNT
+317,Kew Bridge,KWB
+318,Kew Gardens,KWG
+319,Kidbrooke,KDB
+320,Kilburn High Road,KBN
+321,King's CrossLondon,KGX
+322,Kingston,KNG
+323,Kingswood,KND
+324,Kingswood railway station,KND
+325,Knockholt,KCK
+326,Ladywell,LAD
+327,Lancing railway station,LAC
+328,Lea Bridge,LEB
+329,Leatherhead railway station,LHD
+330,Lee,LEE
+331,Leigh railway station,LIH
+332,Lenham railway station,LEN
+333,Lewes railway station,LWS
+334,Lewisham,LEW
+335,Leyton Midland Road,LEM
+336,Leytonstone High Road,LER
+337,Limehouse,LHS
+338,Lingfield railway station,LFD
+339,Littlehampton railway station,LIT
+340,Littlehaven railway station,LVN
+341,Liverpool StreetLondon,LST
+342,London BridgeLondon,LBG
+343,London Fields,LOF
+344,London Road (Guildford) railway station,LRD
+345,Longcross railway station,LNG
+346,Longfield railway station,LGF
+347,Loughborough Junction,LGJ
+348,Lower Sydenham,LSY
+349,Maidstone Barracks railway station,MDB
+350,Maidstone East railway station,MDE
+351,Maidstone West railway station,MDW
+352,Malden Manor,MAL
+353,Manor Park,MNP
+354,Marden railway station,MRN
+355,Margate railway station,MAR
+356,Martin Mill railway station,MTM
+357,Maryland,MYL
+358,MaryleboneLondon,MYB
+359,Maze Hill,MZH
+360,Meopham railway station,MEP
+361,Meridian Water,MRW
+362,Merstham railway station,MHM
+363,Milford railway station,MLF
+364,Mill Hill Broadway,MIL
+365,Minster railway station,MSR
+366,Mitcham Eastfields,MTC
+367,Mitcham Junction,MIJ
+368,MoorgateLondon,MOG
+369,Morden South,MDS
+370,Mortlake,MTL
+371,Motspur Park,MOT
+372,Mottingham,MTG
+373,New Barnet,NBA
+374,New Beckenham,NBC
+375,New Cross,NWX
+376,New Cross Gate,NXG
+377,New Eltham,NEH
+378,New Hythe railway station,NHE
+379,New Malden,NEM
+380,New Southgate,NSG
+381,Newhaven Harbour railway station,NVH
+382,Newhaven Town railway station,NVN
+383,Norbiton,NBT
+384,Norbury,NRB
+385,Normans Bay railway station,NSB
+386,North Camp railway station,NCM
+387,North Dulwich,NDL
+388,North Sheen,NSH
+389,North Wembley,NWB
+390,Northfleet railway station,NFL
+391,Northolt Park,NLT
+392,Northumberland Park,NUM
+393,Norwood Junction,NWD
+394,Nunhead,NHD
+395,Nutbourne railway station,NUT
+396,Nutfield railway station,NUF
+397,Oakleigh Park,OKL
+398,Ockendon,OCK
+399,Ockley railway station,OLY
+400,Old StreetLondon,OLD
+401,Ore railway station,ORE
+402,Orpington,ORP
+403,Otford railway station,OTF
+404,Oxshott railway station,OXS
+405,Oxted railway station,OXT
+406,PaddingtonLondon,PAD
+407,Paddock Wood railway station,PDW
+408,Palmers Green,PAL
+409,Peckham Rye,PMR
+410,Penge East,PNE
+411,Penge West,PNW
+412,Penshurst railway station,PHR
+413,Petts Wood,PET
+414,Pevensey & Westham railway station,PEV
+415,Pevensey Bay railway station,PEB
+416,Pluckley railway station,PLC
+417,Plumpton railway station,PMP
+418,Plumstead,PLU
+419,Polegate railway station,PLG
+420,Ponders End,PON
+421,Pulborough railway station,PUL
+422,Purfleet,PFL
+423,Purley,PUR
+424,Purley Oaks,PUO
+425,Putney,PUT
+426,Queen's Park,QPW
+427,Queens Road Peckham,QRP
+428,Queenstown Road (Battersea),QRB
+429,Rainham,RNM
+430,Ramsgate railway station,RAM
+431,Ravensbourne,RVB
+432,Raynes Park,RAY
+433,Rectory Road,REC
+434,Redhill railway station,RDH
+435,Reedham,RHM
+436,Reigate railway station,REI
+437,Richmond,RMD
+438,Rickmansworth,RIC
+439,Riddlesdown,RDD
+440,Robertsbridge railway station,RBR
+441,Romford,RMF
+442,Rotherhithe,ROE
+443,Rye railway station (East Sussex),RYE
+444,Salfords railway station,SAF
+445,Sanderstead,SNR
+446,Sandling railway station,SDG
+447,Sandwich railway station,SDW
+448,Seaford railway station (England),SEF
+449,Selhurst,SRS
+450,Seven Kings,SVK
+451,Seven Sisters,SVS
+452,Sevenoaks railway station,SEV
+453,Shadwell,SDE
+454,Shalford railway station,SFR
+455,Shenfield,SNF
+456,Shepherd's Bush,SPB
+457,Shepherds Well railway station,SPH
+458,Shepperton railway station,SHP
+459,Shoreditch High Street,SDC
+460,Shoreham railway station,SEH
+461,Shoreham-by-Sea railway station,SSE
+462,Shortlands,SRT
+463,Sidcup,SID
+464,Silver Street,SLV
+465,Slade Green,SGR
+466,Snodland railway station,SDA
+467,Snowdown railway station,SWO
+468,Sole Street railway station,SOR
+469,South Acton,SAT
+470,South Bermondsey,SBM
+471,South Croydon,SCY
+472,South Greenford,SGN
+473,South Hampstead,SOH
+474,South Kenton,SOK
+475,South Merton,SMO
+476,South Ruislip,SRU
+477,South Tottenham,STO
+478,Southall,STL
+479,Southbourne railway station,SOB
+480,Southbury,SBU
+481,Southease railway station,SEE
+482,Southwick railway station,SWK
+483,St Helier,SIH
+484,St James Street,SJS
+485,St Johns,SAJ
+486,St Leonards Warrior Square railway station,SLQ
+487,St Margarets,SMG
+488,St Mary Cray,SMY
+489,St PancrasLondon,STP
+490,Staines railway station,SNS
+491,Stamford Hill,SMH
+492,Staplehurst railway station,SPU
+493,Stoke Newington,SKW
+494,Stone Crossing railway station,SCG
+495,Stonebridge Park,SBP
+496,Stonegate railway station,SOG
+497,Stoneleigh,SNL
+498,Stoneleigh railway station,SNL
+499,Stratford,SRA
+500,Stratford International,SFA
+501,Strawberry Hill,STW
+502,Streatham,STE
+503,Streatham Common,SRC
+504,Streatham Hill,SRH
+505,Sturry railway station,STU
+506,Sudbury & Harrow Road,SUD
+507,Sudbury Hill Harrow,SDH
+508,Sunbury (Surrey) railway station,SUU
+509,Sundridge Park,SUP
+510,Surbiton,SUR
+511,Surrey Quays,SQE
+512,Sutton,SUO
+513,Sutton Common,SUC
+514,Swanley,SAY
+515,Swanley railway station,SAY
+516,Swanscombe railway station,SWM
+517,Sydenham,SYD
+518,Sydenham Hill,SYH
+519,Syon Lane,SYL
+520,Tadworth,TAD
+521,Tadworth railway station,TAD
+522,Tattenham Corner,TAT
+523,Tattenham Corner railway station,TAT
+524,Teddington,TED
+525,Thames Ditton,THD
+526,Thames Ditton railway station,THD
+527,Theobalds Grove,TEO
+528,Thornton Heath,TTH
+529,Three Bridges railway station,TBD
+530,Three Oaks railway station,TOK
+531,Tolworth,TOL
+532,Tonbridge railway station,TON
+533,Tooting,TOO
+534,Tottenham Hale,TOM
+535,Tulse Hill,TUH
+536,Turkey Street,TUR
+537,Twickenham,TWI
+538,Uckfield railway station,UCK
+539,Upminster,UPM
+540,Upper Halliford railway station,UPH
+541,Upper Holloway,UHL
+542,Upper Warlingham,UWL
+543,Upper Warlingham railway station,UWL
+544,VauxhallLondon,VXH
+545,VictoriaLondon,VIC
+546,Virginia Water railway station,VIR
+547,Waddon,WDO
+548,Wadhurst railway station,WAD
+549,Wallington,WLT
+550,Walmer railway station,WAM
+551,Waltham Cross,WLC
+552,Walthamstow Central,WHC
+553,Walthamstow Queen's Road,WMW
+554,Walton-on-Thames railway station,WAL
+555,Wanborough railway station,WAN
+556,Wandsworth Common,WSW
+557,Wandsworth Road,WWR
+558,Wandsworth Town,WNT
+559,Wanstead Park,WNP
+560,Wapping,WPE
+561,Warnham railway station,WNH
+562,Wateringbury railway station,WTR
+563,Waterloo EastLondon,WAE
+564,WaterlooLondon,WAT
+565,Watford High Street,WFH
+566,Watford Junction,WFJ
+567,Welling,WLI
+568,Wembley Central,WMB
+569,Wembley Stadium,WCX
+570,West Brompton,WBP
+571,West Byfleet railway station,WBY
+572,West Croydon,WCY
+573,West Drayton,WDT
+574,West Dulwich,WDU
+575,West Ealing,WEA
+576,West Ham,WEH
+577,West Hampstead,WHD
+578,West Hampstead Thameslink,WHP
+579,West Malling railway station,WMA
+580,West Norwood,WNW
+581,West Ruislip,WRU
+582,West St Leonards railway station,WLD
+583,West Sutton,WSU
+584,West Wickham,WWI
+585,West Worthing railway station,WWO
+586,Westcombe Park,WCB
+587,Westenhanger railway station,WHA
+588,Westgate-on-Sea railway station,WGA
+589,Weybridge railway station,WYB
+590,White Hart Lane,WHL
+591,Whitechapel,ZLW
+592,Whitstable railway station,WHI
+593,Whitton,WTN
+594,Whyteleafe,WHY
+595,Whyteleafe South,WHS
+596,Whyteleafe South railway station,WHS
+597,Whyteleafe railway station,WHY
+598,Willesden Junction,WIJ
+599,Wimbledon,WIM
+600,Wimbledon Chase,WBO
+601,Winchelsea railway station,WSE
+602,Winchmore Hill,WIH
+603,Witley railway station,WTY
+604,Wivelsfield railway station,WVF
+605,Woking railway station,WOK
+606,Woldingham railway station,WOH
+607,Wood Street,WST
+608,Woodgrange Park,WGR
+609,Woodmansterne,WME
+610,Woolwich Arsenal,WWA
+611,Woolwich Dockyard,WWD
+612,Worcester Park,WCP
+613,Worplesdon railway station,WPL
+614,Worthing railway station,WRH
+615,Wye railway station,WYE
+616,Yalding railway station,YAL
