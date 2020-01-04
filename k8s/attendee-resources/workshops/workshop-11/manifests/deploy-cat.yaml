@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-cat
+spec:
+  selector:
+    matchLabels:
+      app: hello-cat
+  template:
+    metadata:
+      labels:
+        app: hello-cat
+    spec:
+      volumes:
+      - name: data-www
+        configMap:
+          name: data-www
+      containers:
+      - name: hello
+        image: nginx:1.17.5-alpine
+        ports:
+        - containerPort: 80
+          protocol: TCP
+          name: http
+        volumeMounts:
+        - name: data-www
+          mountPath: /usr/share/nginx/html/

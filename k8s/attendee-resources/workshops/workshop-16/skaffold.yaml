@@ -1,0 +1,17 @@
+apiVersion: skaffold/v1alpha2
+kind: Config
+build:
+  artifacts:
+  - imageName: gcr.io/PROJECT_ID/hello
+    docker:
+      buildArgs:
+        workshop: workshop-16
+deploy:
+  kubectl:
+    manifests:
+      - manifests/*
+profiles:
+  - name: gcb
+    build:
+      googleCloudBuild:
+        projectId: PROJECT_ID

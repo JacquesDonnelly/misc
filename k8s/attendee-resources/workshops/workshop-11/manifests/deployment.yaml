@@ -1,0 +1,67 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello
+spec:
+  selector:
+    matchLabels:
+      app: hello
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: hello
+    spec:
+      initContainers:
+      - name: init-hello
+        image: busybox
+        command: ["sh", "-c", "echo 'name: Charles (Set by Init Container)' > /data/config.yaml"]
+        volumeMounts:
+        - name: data
+          mountPath: /data
+      containers:
+      - name: hello
+        # image: gcr.io/PROJECT_ID/hello:workshop-11
+        imagePullPolicy: Always
+        ports:
+        - name: http
+          protocol: TCP
+          containerPort: 8080
+        - name: admin
+          protocol: TCP
+          containerPort: 8081
+        volumeMounts:
+        - name: data
+          mountPath: /data
+        livenessProbe:
+          httpGet:
+            port: admin
+            path: /healthz
+          initialDelaySeconds: 1
+          periodSeconds: 1
+        readinessProbe:
+          httpGet:
+            port: admin
+            path: /ready
+          initialDelaySeconds: 1
+          periodSeconds: 1
+        resources:
+          requests:
+            memory: "50Mi"
+            cpu: "100m"
+          limits:
+            memory: "500Mi"
+            cpu: "500m"
+        lifecycle:
+          preStop:
+            httpGet:
+              path: "/pre-stop"
+              port: 8081
+      volumes:
+      - name: data
+        emptyDir: {}

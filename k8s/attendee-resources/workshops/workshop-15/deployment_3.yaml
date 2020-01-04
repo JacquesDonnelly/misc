@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+spec:
+  selector:
+    matchLabels:
+      app: nginx
+  replicas: 3
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      restart: Always
+      containers:
+      - name: nginx
+        image: nginx.1.7.9
+        imagePullPolicy: FullMoon
+        lightSpeed: Yes
+        resources:
+          cpu: "100m"
+          mem: "100Mi"

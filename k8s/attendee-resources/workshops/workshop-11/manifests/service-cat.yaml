@@ -1,0 +1,16 @@
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-cat
+  labels:
+    app: hello-cat
+spec:
+  type: ClusterIP
+  selector:
+    app: hello-cat
+  ports:
+  - name: http
+    protocol: TCP
+    port: 80
+    targetPort: http

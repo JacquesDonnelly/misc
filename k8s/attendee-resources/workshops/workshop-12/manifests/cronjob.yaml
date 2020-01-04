@@ -1,0 +1,19 @@
+apiVersion: batch/v1beta1
+kind: CronJob
+metadata:
+  name: hello-oneshotjob
+spec:
+  schedule: "* * * * *"
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          restartPolicy: OnFailure
+          containers:
+          - name: hello-oneshotjob
+            # image: gcr.io/PROJECT_ID/hello:workshop-12
+            imagePullPolicy: Always
+            args:
+            - /hello
+            - --oneshot-task=true
+            # - --oneshot-task-endpoint=https://webhook.site/xxxxxxx...
